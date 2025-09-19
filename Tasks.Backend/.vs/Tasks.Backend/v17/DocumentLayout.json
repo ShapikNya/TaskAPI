@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E44DEA8-2303-4C22-9D97-A6B77DC75DB1}|Tasks.Domain\\Tasks.Domain.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.domain\\tasks.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2E44DEA8-2303-4C22-9D97-A6B77DC75DB1}|Tasks.Domain\\Tasks.Domain.csproj|solutionrelative:tasks.domain\\tasks.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8CB9E728-A7CB-4506-B2FE-02F813261714}|Tasks.Persistense\\Tasks.Persistense.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.persistense\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB9E728-A7CB-4506-B2FE-02F813261714}|Tasks.Persistense\\Tasks.Persistense.csproj|solutionrelative:tasks.persistense\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB9E728-A7CB-4506-B2FE-02F813261714}|Tasks.Persistense\\Tasks.Persistense.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.persistense\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB9E728-A7CB-4506-B2FE-02F813261714}|Tasks.Persistense\\Tasks.Persistense.csproj|solutionrelative:tasks.persistense\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB9E728-A7CB-4506-B2FE-02F813261714}|Tasks.Persistense\\Tasks.Persistense.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.persistense\\entitytypeconfigurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB9E728-A7CB-4506-B2FE-02F813261714}|Tasks.Persistense\\Tasks.Persistense.csproj|solutionrelative:tasks.persistense\\entitytypeconfigurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\itasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\itasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E44DEA8-2303-4C22-9D97-A6B77DC75DB1}|Tasks.Domain\\Tasks.Domain.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.domain\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,33 +30,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tasks.Domain",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj",
-              "RelativeDocumentMoniker": "Tasks.Domain\\Tasks.Domain.csproj",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj",
-              "RelativeToolTip": "Tasks.Domain\\Tasks.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-19T16:59:26.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Task.cs",
               "RelativeDocumentMoniker": "Tasks.Domain\\Task.cs",
               "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Task.cs",
               "RelativeToolTip": "Tasks.Domain\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T16:56:39.832Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Tasks.Persistense\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\DbInitializer.cs",
+              "RelativeToolTip": "Tasks.Persistense\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:59:13.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\TasksDbContext.cs",
+              "RelativeDocumentMoniker": "Tasks.Persistense\\TasksDbContext.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\TasksDbContext.cs",
+              "RelativeToolTip": "Tasks.Persistense\\TasksDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:51:13.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITasksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\ITasksDbContext.cs",
+              "RelativeDocumentMoniker": "Tasks.Application\\ITasksDbContext.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\ITasksDbContext.cs",
+              "RelativeToolTip": "Tasks.Application\\ITasksDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:44:49.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\EntityTypeConfigurations\\TaskConfiguration.cs",
+              "RelativeDocumentMoniker": "Tasks.Persistense\\EntityTypeConfigurations\\TaskConfiguration.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\EntityTypeConfigurations\\TaskConfiguration.cs",
+              "RelativeToolTip": "Tasks.Persistense\\EntityTypeConfigurations\\TaskConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:27:42.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
