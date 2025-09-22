@@ -412,15 +412,6 @@
         "runtime": {
           "bin/placeholder/Tasks.Domain.dll": {}
         }
-      },
-      "Tasks.WepApi/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Tasks.WepApi.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Tasks.WepApi.dll": {}
-        }
       }
     }
   },
@@ -1017,11 +1008,6 @@
       "type": "project",
       "path": "../Tasks.Domain/Tasks.Domain.csproj",
       "msbuildProject": "../Tasks.Domain/Tasks.Domain.csproj"
-    },
-    "Tasks.WepApi/1.0.0": {
-      "type": "project",
-      "path": "../Tasks.WepApi/Tasks.WepApi.csproj",
-      "msbuildProject": "../Tasks.WepApi/Tasks.WepApi.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1029,8 +1015,7 @@
       "AutoMapper >= 15.0.1",
       "MediatR >= 13.0.0",
       "Microsoft.Extensions.DependencyInjection >= 9.0.9",
-      "Tasks.Domain >= 1.0.0",
-      "Tasks.WepApi >= 1.0.0"
+      "Tasks.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1067,9 +1052,6 @@
           "projectReferences": {
             "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj": {
               "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj"
-            },
-            "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WepApi\\Tasks.WepApi.csproj": {
-              "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WepApi\\Tasks.WepApi.csproj"
             }
           }
         }
