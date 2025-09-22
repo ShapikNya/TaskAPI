@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\tasks\\commands\\createtask\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\tasks\\commands\\createtask\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\tasks\\commands\\createtask\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\tasks\\commands\\createtask\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\models\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CreateTaskCommand.cs",
               "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks\\Commands\\CreateTask\\CreateTaskCommand.cs",
               "RelativeDocumentMoniker": "Tasks.Application\\Tasks\\Commands\\CreateTask\\CreateTaskCommand.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreateTaskCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
               "RelativeDocumentMoniker": "Tasks.Application\\Tasks\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
@@ -81,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Tasks.WebApi\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "Tasks.WebApi\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\TasksController.cs*",
+              "RelativeToolTip": "Tasks.WebApi\\Controllers\\TasksController.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwC8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T16:59:57.895Z",
               "EditorCaption": ""
