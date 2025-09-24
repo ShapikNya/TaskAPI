@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Tasks.Application.Common.Mappings;
 using Tasks.Application.Tasks.Commands.CreateTask;
 
-namespace Tasks.WepApi.Models
+namespace Tasks.WebApi.Models.Tasks
 {
     public class CreateTaskDto : IMapWith<CreateTaskCommand>
     {

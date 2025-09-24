@@ -4,7 +4,7 @@ using Tasks.Application.Common.Mappings;
 using Tasks.Application.Tasks.Commands.CreateTask;
 using Tasks.Application.Tasks.Commands.UpdateNote;
 
-namespace Tasks.WepApi.Models
+namespace Tasks.WebApi.Models.Tasks
 {
     public class UpdateTaskDto : IMapWith<UpdateTaskCommand>
     {

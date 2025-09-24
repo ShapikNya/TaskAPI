@@ -16,3 +16,39 @@
 2025-09-24 14:57:48.366 +03:00 [INF] Handled GetTaskListQuery with response: {"Tasks":[{"Id":"39f22bd5-63a8-4f7f-9818-256627175e57","Title":"someTask2","Description":"test","IsCompleted":false,"CreatedAt":"2025-09-22T20:29:20.6976710Z","$type":"TaskLookupDto"},{"Id":"f78dbcf4-1fe3-48be-9e7e-58bdbce43c28","Title":"someTask3","Description":"test","IsCompleted":false,"CreatedAt":"2025-09-22T20:29:22.9553660Z","$type":"TaskLookupDto"},{"Id":"d062a6ac-78c0-4cf0-83cb-b0b12d6b6b0e","Title":"fdafadsf","Description":"string","IsCompleted":false,"CreatedAt":"2025-09-22T21:25:00.4755190Z","$type":"TaskLookupDto"},{"Id":"1924778c-3c74-4cf8-85a6-e06e6c0aef80","Title":"string","Description":"string","IsCompleted":true,"CreatedAt":"2025-09-22T22:31:26.2635090Z","$type":"TaskLookupDto"}],"$type":"TaskListVm"}
 2025-09-24 14:57:55.991 +03:00 [INF] Handling GetTaskListQuery with data: {"UserId":"00000000-0000-0000-0000-000000000000","$type":"GetTaskListQuery"}
 2025-09-24 14:57:56.042 +03:00 [INF] Handled GetTaskListQuery with response: {"Tasks":[{"Id":"39f22bd5-63a8-4f7f-9818-256627175e57","Title":"someTask2","Description":"test","IsCompleted":false,"CreatedAt":"2025-09-22T20:29:20.6976710Z","$type":"TaskLookupDto"},{"Id":"f78dbcf4-1fe3-48be-9e7e-58bdbce43c28","Title":"someTask3","Description":"test","IsCompleted":false,"CreatedAt":"2025-09-22T20:29:22.9553660Z","$type":"TaskLookupDto"},{"Id":"d062a6ac-78c0-4cf0-83cb-b0b12d6b6b0e","Title":"fdafadsf","Description":"string","IsCompleted":false,"CreatedAt":"2025-09-22T21:25:00.4755190Z","$type":"TaskLookupDto"},{"Id":"1924778c-3c74-4cf8-85a6-e06e6c0aef80","Title":"string","Description":"string","IsCompleted":true,"CreatedAt":"2025-09-22T22:31:26.2635090Z","$type":"TaskLookupDto"}],"$type":"TaskListVm"}
+2025-09-25 00:25:54.614 +03:00 [ERR] Validation failed: 
+ -- Email: Email должен содержать символ '@' Severity: Error
+ -- Password: Пароль должен содержать минимум 8 символов Severity: Error
+2025-09-25 00:26:18.275 +03:00 [ERR] Validation failed: 
+ -- Email: Пароль должен содержать только латинские буквы и допустимые символы Severity: Error
+2025-09-25 00:30:29.028 +03:00 [INF] Handling CreateUserCommand with data: {"Email":"first_user@test.com","Password":"qqWERty332","$type":"CreateUserCommand"}
+2025-09-25 00:30:29.845 +03:00 [ERR] An error occurred while saving the entity changes. See the inner exception for details.
+2025-09-25 00:31:14.383 +03:00 [INF] Handling CreateUserCommand with data: {"Email":"first_user@test.com","Password":"qqWERty332","$type":"CreateUserCommand"}
+2025-09-25 00:31:37.639 +03:00 [ERR] Validation failed: 
+ -- Password: Пароль должен содержать минимум 8 символов Severity: Error
+2025-09-25 00:31:41.095 +03:00 [INF] Handling CreateUserCommand with data: {"Email":"string@","Password":"strisssng","$type":"CreateUserCommand"}
+2025-09-25 00:31:51.522 +03:00 [ERR] An error occurred while saving the entity changes. See the inner exception for details.
+2025-09-25 00:32:48.816 +03:00 [INF] Handling GetTaskListQuery with data: {"UserId":"00000000-0000-0000-0000-000000000000","$type":"GetTaskListQuery"}
+2025-09-25 00:32:49.628 +03:00 [INF] Handled GetTaskListQuery with response: {"Tasks":[{"Id":"39f22bd5-63a8-4f7f-9818-256627175e57","Title":"someTask2","Description":"test","IsCompleted":false,"CreatedAt":"2025-09-22T20:29:20.6976710Z","$type":"TaskLookupDto"},{"Id":"f78dbcf4-1fe3-48be-9e7e-58bdbce43c28","Title":"someTask3","Description":"test","IsCompleted":false,"CreatedAt":"2025-09-22T20:29:22.9553660Z","$type":"TaskLookupDto"},{"Id":"d062a6ac-78c0-4cf0-83cb-b0b12d6b6b0e","Title":"fdafadsf","Description":"string","IsCompleted":false,"CreatedAt":"2025-09-22T21:25:00.4755190Z","$type":"TaskLookupDto"},{"Id":"1924778c-3c74-4cf8-85a6-e06e6c0aef80","Title":"string","Description":"string","IsCompleted":true,"CreatedAt":"2025-09-22T22:31:26.2635090Z","$type":"TaskLookupDto"}],"$type":"TaskListVm"}
+2025-09-25 00:33:30.926 +03:00 [INF] Handling CreateUserCommand with data: {"Email":"string@","Password":"strin414g","$type":"CreateUserCommand"}
+2025-09-25 00:33:31.096 +03:00 [ERR] An error occurred while saving the entity changes. See the inner exception for details.
+2025-09-25 00:47:13.214 +03:00 [INF] Handling CreateUserCommand with data: {"Email":"first_user@test.com","Password":"QwwerTy332","$type":"CreateUserCommand"}
+2025-09-25 00:47:13.940 +03:00 [INF] Handled CreateUserCommand with response: "f204ab50-7f1b-4ef8-a38c-fa879842d81b"
+2025-09-25 00:47:58.107 +03:00 [ERR] Entity "user" (3fa85f64-5717-4562-b3fc-2c963f66afa2) not found.
+2025-09-25 00:48:05.698 +03:00 [ERR] Entity "user" (3fa85f64-5717-4562-b3fc-2c963f66afa6) not found.
+2025-09-25 00:48:07.616 +03:00 [ERR] Entity "user" (3fa85f64-5717-4562-b3fc-2c963f66afa6) not found.
+2025-09-25 00:48:08.121 +03:00 [ERR] Entity "user" (3fa85f64-5717-4562-b3fc-2c963f66afa6) not found.
+2025-09-25 00:48:08.323 +03:00 [ERR] Entity "user" (3fa85f64-5717-4562-b3fc-2c963f66afa6) not found.
+2025-09-25 00:48:08.521 +03:00 [ERR] Entity "user" (3fa85f64-5717-4562-b3fc-2c963f66afa6) not found.
+2025-09-25 00:48:09.180 +03:00 [ERR] Entity "user" (3fa85f64-5717-4562-b3fc-2c963f66afa6) not found.
+2025-09-25 00:48:23.579 +03:00 [ERR] Entity "user" (f204ab50-7f1b-4ef8-a38c-fa879842d81b) not found.
+2025-09-25 00:48:23.781 +03:00 [ERR] Entity "user" (f204ab50-7f1b-4ef8-a38c-fa879842d81b) not found.
+2025-09-25 00:48:23.978 +03:00 [ERR] Entity "user" (f204ab50-7f1b-4ef8-a38c-fa879842d81b) not found.
+2025-09-25 00:48:24.167 +03:00 [ERR] Entity "user" (f204ab50-7f1b-4ef8-a38c-fa879842d81b) not found.
+2025-09-25 00:48:24.869 +03:00 [ERR] Entity "user" (f204ab50-7f1b-4ef8-a38c-fa879842d81b) not found.
+2025-09-25 00:48:37.483 +03:00 [INF] Handling CreateUserCommand with data: {"Email":"first_user@test.com","Password":"QwwerTy332","$type":"CreateUserCommand"}
+2025-09-25 00:48:37.496 +03:00 [INF] Handled CreateUserCommand with response: "e330a7c0-66c2-4159-bb66-96d456ac3ab2"
+2025-09-25 00:48:50.951 +03:00 [ERR] Entity "user" (3fa85f64-5717-4562-b3fc-2c963f66afa6) not found.
+2025-09-25 00:58:51.463 +03:00 [INF] Handling CreateUserCommand with data: {"Email":"first_user@test.com","Password":"QwwerTy332","$type":"CreateUserCommand"}
+2025-09-25 00:58:51.550 +03:00 [INF] Handled CreateUserCommand with response: "af916552-d913-40c7-a2fe-13fb16cdb150"
+2025-09-25 00:59:04.260 +03:00 [ERR] Entity "user" (af916552-d913-40c7-a2fe-13fb16cdb150) not found.
