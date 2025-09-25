@@ -12,8 +12,8 @@ using Tasks.Persistense;
 namespace Tasks.Persistense.Migrations
 {
     [DbContext(typeof(TasksDbContext))]
-    [Migration("20250924214046_Add_UserEntity")]
-    partial class Add_UserEntity
+    [Migration("20250925003141_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -74,6 +74,11 @@ namespace Tasks.Persistense.Migrations
                         .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("character varying(255)");
+
+                    b.Property<string>("Role")
+                        .IsRequired()
+                        .HasMaxLength(64)
+                        .HasColumnType("character varying(64)");
 
                     b.HasKey("Id");
 

@@ -11,56 +11,44 @@
       "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\models\\tasks\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\models\\tasks\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\common\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\common\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\models\\users\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\models\\users\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CB9E728-A7CB-4506-B2FE-02F813261714}|Tasks.Persistense\\Tasks.Persistense.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.persistense\\entitytypeconfigurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB9E728-A7CB-4506-B2FE-02F813261714}|Tasks.Persistense\\Tasks.Persistense.csproj|solutionrelative:tasks.persistense\\entitytypeconfigurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\users\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\users\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\users\\commands\\deleteuser\\deleteusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\users\\commands\\deleteuser\\deleteusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E44DEA8-2303-4C22-9D97-A6B77DC75DB1}|Tasks.Domain\\Tasks.Domain.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E44DEA8-2303-4C22-9D97-A6B77DC75DB1}|Tasks.Domain\\Tasks.Domain.csproj|solutionrelative:tasks.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\users\\commands\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\users\\commands\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E6CB4A-5EDF-4F72-9698-16F88A94ABE0}|Tasks.Security\\Tasks.Security.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E6CB4A-5EDF-4F72-9698-16F88A94ABE0}|Tasks.Security\\Tasks.Security.csproj|solutionrelative:tasks.security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E6CB4A-5EDF-4F72-9698-16F88A94ABE0}|Tasks.Security\\Tasks.Security.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.security\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E6CB4A-5EDF-4F72-9698-16F88A94ABE0}|Tasks.Security\\Tasks.Security.csproj|solutionrelative:tasks.security\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\tasks.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\tasks.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\users\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\users\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\users\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\users\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\models\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\models\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\tasks\\commands\\deletetask\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\tasks\\commands\\deletetask\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.application\\tasks\\commands\\createtask\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927D9D84-8DA0-4496-B7E5-94CC52662176}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\tasks\\commands\\createtask\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|c:\\users\\shapi\\desktop\\taskapi\\tasks.backend\\tasks.webapi\\models\\users\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8014EBE4-2448-3962-74EA-1F584A1641AA}|Tasks.WebApi\\Tasks.WebApi.csproj|solutionrelative:tasks.webapi\\models\\users\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,190 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 13,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Tasks.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\appsettings.json",
-              "RelativeToolTip": "Tasks.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-24T23:31:03.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DeleteUserCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\DeleteUser\\DeleteUserCommandValidator.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Users\\Commands\\DeleteUser\\DeleteUserCommandValidator.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\DeleteUser\\DeleteUserCommandValidator.cs",
-              "RelativeToolTip": "Tasks.Application\\Users\\Commands\\DeleteUser\\DeleteUserCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:25:10.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Common\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Common\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Common\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "Tasks.Application\\Common\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:22:17.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InvalidPasswordException.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Common\\Exceptions\\InvalidPasswordException.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Common\\Exceptions\\InvalidPasswordException.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Common\\Exceptions\\InvalidPasswordException.cs",
-              "RelativeToolTip": "Tasks.Application\\Common\\Exceptions\\InvalidPasswordException.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAvwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:22:16.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DeleteUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Users\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
-              "RelativeToolTip": "Tasks.Application\\Users\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:21:23.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\TasksController.cs",
-              "RelativeDocumentMoniker": "Tasks.WebApi\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\TasksController.cs*",
-              "RelativeToolTip": "Tasks.WebApi\\Controllers\\TasksController.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAYwDQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:18:04.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Tasks.WebApi\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Tasks.WebApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFcAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:18:01.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DeleteTaskCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks\\Commands\\DeleteTask\\DeleteTaskCommand.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Tasks\\Commands\\DeleteTask\\DeleteTaskCommand.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks\\Commands\\DeleteTask\\DeleteTaskCommand.cs",
-              "RelativeToolTip": "Tasks.Application\\Tasks\\Commands\\DeleteTask\\DeleteTaskCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:17:33.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "RelativeToolTip": "Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:14:42.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateTaskCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Tasks\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
-              "RelativeToolTip": "Tasks.Application\\Tasks\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBAAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:13:15.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Models\\Users\\CreateUserDto.cs",
-              "RelativeDocumentMoniker": "Tasks.WebApi\\Models\\Users\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Models\\Users\\CreateUserDto.cs",
-              "RelativeToolTip": "Tasks.WebApi\\Models\\Users\\CreateUserDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:12:01.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Models\\Users\\LoginUserDto.cs",
-              "RelativeDocumentMoniker": "Tasks.WebApi\\Models\\Users\\LoginUserDto.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Models\\Users\\LoginUserDto.cs",
-              "RelativeToolTip": "Tasks.WebApi\\Models\\Users\\LoginUserDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:12:00.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
-              "RelativeToolTip": "Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwB0AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:08:11.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
-              "RelativeToolTip": "Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwCQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:06:40.615Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -268,15 +74,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommand.cs",
-              "RelativeDocumentMoniker": "Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommand.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommand.cs",
-              "RelativeToolTip": "Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Models\\Users\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Tasks.WebApi\\Models\\Users\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Models\\Users\\LoginUserDto.cs",
+              "RelativeToolTip": "Tasks.WebApi\\Models\\Users\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:06:36.262Z",
+              "WhenOpened": "2025-09-25T00:41:55.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Models\\Tasks\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "Tasks.WebApi\\Models\\Tasks\\UpdateTaskDto.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Models\\Tasks\\UpdateTaskDto.cs",
+              "RelativeToolTip": "Tasks.WebApi\\Models\\Tasks\\UpdateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:34:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Tasks.Application\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vyIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:16:01.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Tasks.WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\UsersController.cs*",
+              "RelativeToolTip": "Tasks.WebApi\\Controllers\\UsersController.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:57:14.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Tasks.Security\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\IJwtTokenService.cs",
+              "RelativeToolTip": "Tasks.Security\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:55:05.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Tasks.Security\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\JwtTokenService.cs",
+              "RelativeToolTip": "Tasks.Security\\JwtTokenService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:55:01.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tasks.WebApi",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Tasks.WebApi.csproj",
+              "RelativeDocumentMoniker": "Tasks.WebApi\\Tasks.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Tasks.WebApi.csproj",
+              "RelativeToolTip": "Tasks.WebApi\\Tasks.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T23:54:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Tasks.Application\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:53:53.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\EntityTypeConfigurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Tasks.Persistense\\EntityTypeConfigurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\EntityTypeConfigurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Tasks.Persistense\\EntityTypeConfigurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:51:33.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\User.cs",
+              "RelativeDocumentMoniker": "Tasks.Domain\\User.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\User.cs",
+              "RelativeToolTip": "Tasks.Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:50:22.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Tasks.WebApi\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Controllers\\TasksController.cs*",
+              "RelativeToolTip": "Tasks.WebApi\\Controllers\\TasksController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:39:36.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Tasks.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.WebApi\\Program.cs",
+              "RelativeToolTip": "Tasks.WebApi\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:34:07.293Z",
               "EditorCaption": ""
             }
           ]
