@@ -52,17 +52,19 @@ Tasks.sln
 ## 📜 Запуск проекта
 
 1. Клонировать репозиторий:   
-ㅤㅤ   bash
-       git clone https://github.com/ShapikNya/TaskAPI
+```bash
+git clone https://github.com/ShapikNya/TaskAPI
+```
    
-3. Применить миграции:   
-ㅤㅤ  bash    
-ㅤㅤ  dotnet ef database update --project Tasks.Persistence
-
-4. Запустить проект:    
- ㅤㅤ bash    
-ㅤㅤ  dotnet run --project Tasks.WebApi
-
-5. Открыть Swagger UI:    
- ㅤㅤ bash    
- ㅤㅤ https://localhost:{port}/swagger
+3. Применить миграции:
+```bash
+dotnet ef database update --project Tasks.Persistence
+```
+5. Запустить проект:
+```bash
+dotnet run --project Tasks.WebApi
+```
+7. Открыть Swagger UI:
+```
+https://localhost:{port}/swagger
+```
