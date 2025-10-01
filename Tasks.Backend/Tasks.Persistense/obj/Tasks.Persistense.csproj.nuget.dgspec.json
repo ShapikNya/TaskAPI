@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\Tasks.Persistense.csproj": {}
+    "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\Tasks.Persistense.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj": {
+    "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj",
         "projectName": "Tasks.Application",
-        "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj",
+        "projectPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj",
         "packagesPath": "C:\\Users\\Shapi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\obj\\",
+        "outputPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj": {
-                "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj"
+              "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj": {
+                "projectPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj"
               },
-              "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj": {
-                "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj"
+              "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj": {
+                "projectPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj": {
+    "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj",
         "projectName": "Tasks.Domain",
-        "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj",
+        "projectPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj",
         "packagesPath": "C:\\Users\\Shapi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -177,14 +177,14 @@
         }
       }
     },
-    "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\Tasks.Persistense.csproj": {
+    "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\Tasks.Persistense.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\Tasks.Persistense.csproj",
+        "projectUniqueName": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\Tasks.Persistense.csproj",
         "projectName": "Tasks.Persistense",
-        "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\Tasks.Persistense.csproj",
+        "projectPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\Tasks.Persistense.csproj",
         "packagesPath": "C:\\Users\\Shapi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\obj\\",
+        "outputPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Persistense\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -205,11 +205,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj": {
-                "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj"
+              "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj": {
+                "projectPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj"
               },
-              "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj": {
-                "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj"
+              "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj": {
+                "projectPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Domain\\Tasks.Domain.csproj"
               }
             }
           }
@@ -230,6 +230,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.1, )"
@@ -267,14 +271,14 @@
         }
       }
     },
-    "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj": {
+    "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj",
+        "projectUniqueName": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj",
         "projectName": "Tasks.Security",
-        "projectPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj",
+        "projectPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Security\\Tasks.Security.csproj",
         "packagesPath": "C:\\Users\\Shapi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Security\\obj\\",
+        "outputPath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

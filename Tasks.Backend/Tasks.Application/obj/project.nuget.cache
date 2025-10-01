@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CXXLH9sLEuc=",
+  "dgSpecHash": "4XBbfh8iwYE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shapi\\Desktop\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj",
+  "projectFilePath": "C:\\Users\\Shapi\\Desktop\\Новая_папка\\TaskAPI\\Tasks.Backend\\Tasks.Application\\Tasks.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shapi\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\Shapi\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
